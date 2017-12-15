@@ -1,8 +1,8 @@
-#Hux Blog
+#Lcw Blog
 
-###[View Live Hux Blog &rarr;](https://huangxuan.me)
+###[View Live Lcw Blog &rarr;](https://liuchongwuhust.github.io/)
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](https://liuchongwuhust.github.io//img/post-bg-alibaba.jpg)
 
 
 
@@ -11,20 +11,11 @@
 Want to clone a boilerplate instead of my buzz blog? Here comes this!  
 
 ```
-$ git clone git@github.com:Huxpro/huxblog-boilerplate.git
+$ git clone https://github.com/liuchongwuhust/liuchongwuhust.github.io.git
 ```
 
-**[View Boilerplate Here &rarr;](http://huangxuan.me/huxblog-boilerplate/)**
+**[View Boilerplate Here &rarr;](https://liuchongwuhust.github.io/)**
 
-
-## Porting 
-
-- [**Hexo**](https://github.com/Kaijun/hexo-theme-huxblog) by @kaijun
-- [**React-SSR**](https://github.com/LucasIcarus/huxpro.github.io/tree/ssr) by @LucasIcarus
-
-## Translation
-
- - ![cn](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/China.png) **Chinese (Simplified)**: 感谢 [@BrucZhaoR](https://github.com/BruceZhaoR) 的 [中文翻译 &rarr;](https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md)
 
 ## Features
 
@@ -56,7 +47,7 @@ $ git clone git@github.com:Huxpro/huxblog-boilerplate.git
 
 - Big Improvement to the **Navigation Menu** *(especially in Android)*:  Dropping the old, stuttering, low-performance [Bootstrap collapse.js](http://getbootstrap.com/javascript/#collapse),  replaced with an own wrote, [jank free](http://jankfree.org/) navbar menu in a pretty high-performance implementation of [Google Material Design](https://www.google.com/design/spec/material-design/introduction.html).
 
-<img src="http://huangxuan.me/img/blog-md-navbar.gif" width="320" />
+
 
 
 ##### New Feature (V1.2)
