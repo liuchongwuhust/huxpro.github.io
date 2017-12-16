@@ -1,4 +1,4 @@
----
+﻿---
 layout:     post
 title:      "月亮与六便士"
 subtitle:   " \"需要六便士，又那么需要月亮\""
@@ -10,7 +10,7 @@ tags:
     - 生活 -吐槽
 ---
 
-> “Yeah It's begin. ”
+> “Life is going on”
 
 
 ## 前言
